@@ -1,0 +1,9 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M50 175C50 119.772 94.7715 75 150 75H350C405.228 75 450 119.772 450 175V375H50V175Z" fill="#44B0FF"/>
+<circle cx="400" cy="375" r="50" fill="#44B0FF"/>
+<circle cx="300" cy="375" r="50" fill="#44B0FF"/>
+<circle cx="200" cy="375" r="50" fill="#44B0FF"/>
+<circle cx="100" cy="375" r="50" fill="#44B0FF"/>
+<circle cx="162.5" cy="212.5" r="62.5" fill="white"/>
+<circle cx="337.5" cy="212.5" r="62.5" fill="white"/>
+</svg>

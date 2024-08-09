@@ -1,0 +1,21 @@
+.navbar {
+  position:fixed;
+  width: calc(100% - 100px);
+  height: 60px;
+  background-color: var(--logo);
+  display: flex;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+}
+
+.logo_text {
+  margin-left: 20px;
+  margin-top: 7px;
+  font-size: 40px;
+  font-weight: 700;
+}

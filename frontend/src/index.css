@@ -1,0 +1,59 @@
+body {
+  margin: 0px;
+  font-family: "Roboto";
+  color: white;
+  font-size: 20px;
+
+  --logo: #44b0ff;
+  --primary: #4fc3f7;
+  --secondary: #9e9e9e;
+  --alert: #e57373;
+}
+
+input,
+button {
+  border: none;
+  outline: none;
+}
+
+h1,
+h2,
+p {
+  margin: 0px;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("./assets/Roboto/Roboto-Thin.ttf");
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("./assets/Roboto/Roboto-Light.ttf");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("./assets/Roboto/Roboto-Regular.ttf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("./assets/Roboto/Roboto-Medium.ttf");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("./assets/Roboto/Roboto-Bold.ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("./assets/Roboto/Roboto-Black.ttf");
+  font-weight: 900;
+}
